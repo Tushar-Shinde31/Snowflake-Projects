@@ -1,0 +1,16 @@
+doctor_id,doctor_name,specialization,hospital,experience_years,consultation_fee,city
+D001,Dr. Rajesh Joshi,Cardiology,City Care Hospital,11,1200,Mumbai
+D002,Dr. Neel Deshmukh,Neurology,Apollo Medical Center,5,1000,Nashik
+D003,Dr. Sonal Verma,Orthopedics,Sunrise Hospital,8,1000,Nagpur
+D004,Dr. Vivek Singh,Dermatology,Medistar Hospital,10,600,Kolhapur
+D005,Dr. Kiran Mehta,Pediatrics,City Care Hospital,17,800,Thane
+D006,Dr. Manoj Shinde,General Medicine,Apollo Medical Center,11,1200,Navi Mumbai
+D007,Dr. Deepa Pawar,ENT,Sunrise Hospital,20,600,Aurangabad
+D008,Dr. Amit Sharma,Gynecology,Medistar Hospital,13,1500,Pune
+D009,Dr. Shalini Patel,Oncology,City Care Hospital,4,600,Mumbai
+D010,Dr. Prakash Kulkarni,Radiology,Apollo Medical Center,4,1500,Nashik
+D011,Dr. Ritu Joshi,Cardiology,Sunrise Hospital,13,800,Nagpur
+D012,Dr. Sameer Deshmukh,Neurology,Medistar Hospital,11,500,Kolhapur
+D013,Dr. Pallavi Verma,Orthopedics,City Care Hospital,9,1000,Thane
+D014,Dr. Anil Singh,Dermatology,Apollo Medical Center,13,600,Navi Mumbai
+D015,Dr. Madhuri Mehta,Pediatrics,Sunrise Hospital,18,800,Aurangabad

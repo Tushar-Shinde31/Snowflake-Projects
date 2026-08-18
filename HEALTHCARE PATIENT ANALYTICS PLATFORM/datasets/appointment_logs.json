@@ -1,0 +1,757 @@
+[
+  {
+    "log_id": "LOG0001",
+    "appointment_id": "A0038",
+    "patient": {
+      "id": "P020",
+      "name": "Simran Pawar"
+    },
+    "doctor": {
+      "id": "D009",
+      "name": "Dr. Shalini Patel"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-06-04T14:43:00"
+  },
+  {
+    "log_id": "LOG0002",
+    "appointment_id": "A0012",
+    "patient": {
+      "id": "P021",
+      "name": "Aditya Sharma"
+    },
+    "doctor": {
+      "id": "D007",
+      "name": "Dr. Deepa Pawar"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Dermatitis",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-06-18T15:52:00"
+  },
+  {
+    "log_id": "LOG0003",
+    "appointment_id": "A0022",
+    "patient": {
+      "id": "P011",
+      "name": "Karan Sharma"
+    },
+    "doctor": {
+      "id": "D004",
+      "name": "Dr. Vivek Singh"
+    },
+    "symptoms": [
+      "joint pain",
+      "swelling"
+    ],
+    "diagnosis": "Dermatitis",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-29T13:34:00"
+  },
+  {
+    "log_id": "LOG0004",
+    "appointment_id": "A0002",
+    "patient": {
+      "id": "P009",
+      "name": "Amit Shinde"
+    },
+    "doctor": {
+      "id": "D014",
+      "name": "Dr. Anil Singh"
+    },
+    "symptoms": [
+      "dizziness",
+      "weakness"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-06-11T16:01:00"
+  },
+  {
+    "log_id": "LOG0005",
+    "appointment_id": "A0049",
+    "patient": {
+      "id": "P008",
+      "name": "Neha Mehta"
+    },
+    "doctor": {
+      "id": "D011",
+      "name": "Dr. Ritu Joshi"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Musculoskeletal Pain",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-06-09T08:41:00"
+  },
+  {
+    "log_id": "LOG0006",
+    "appointment_id": "A0009",
+    "patient": {
+      "id": "P027",
+      "name": "Varun Singh"
+    },
+    "doctor": {
+      "id": "D001",
+      "name": "Dr. Rajesh Joshi"
+    },
+    "symptoms": [
+      "sore throat",
+      "fever"
+    ],
+    "diagnosis": "Migraine",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-06-20T12:04:00"
+  },
+  {
+    "log_id": "LOG0007",
+    "appointment_id": "A0011",
+    "patient": {
+      "id": "P015",
+      "name": "Sanjay Deshmukh"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Common Cold",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-07-03T14:17:00"
+  },
+  {
+    "log_id": "LOG0008",
+    "appointment_id": "A0007",
+    "patient": {
+      "id": "P025",
+      "name": "Akash Deshmukh"
+    },
+    "doctor": {
+      "id": "D014",
+      "name": "Dr. Anil Singh"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-06-21T13:18:00"
+  },
+  {
+    "log_id": "LOG0009",
+    "appointment_id": "A0046",
+    "patient": {
+      "id": "P019",
+      "name": "Manish Shinde"
+    },
+    "doctor": {
+      "id": "D011",
+      "name": "Dr. Ritu Joshi"
+    },
+    "symptoms": [
+      "back pain"
+    ],
+    "diagnosis": "Migraine",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-07-19T14:46:00"
+  },
+  {
+    "log_id": "LOG0010",
+    "appointment_id": "A0051",
+    "patient": {
+      "id": "P004",
+      "name": "Priya Joshi"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-09T10:03:00"
+  },
+  {
+    "log_id": "LOG0011",
+    "appointment_id": "A0033",
+    "patient": {
+      "id": "P018",
+      "name": "Asha Mehta"
+    },
+    "doctor": {
+      "id": "D007",
+      "name": "Dr. Deepa Pawar"
+    },
+    "symptoms": [
+      "stomach pain",
+      "nausea"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-18T09:10:00"
+  },
+  {
+    "log_id": "LOG0012",
+    "appointment_id": "A0024",
+    "patient": {
+      "id": "P027",
+      "name": "Varun Singh"
+    },
+    "doctor": {
+      "id": "D008",
+      "name": "Dr. Amit Sharma"
+    },
+    "symptoms": [
+      "sore throat",
+      "fever"
+    ],
+    "diagnosis": "Hypertension",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-06-14T15:23:00"
+  },
+  {
+    "log_id": "LOG0013",
+    "appointment_id": "A0040",
+    "patient": {
+      "id": "P006",
+      "name": "Sneha Verma"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "dizziness",
+      "weakness"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-08-06T12:36:00"
+  },
+  {
+    "log_id": "LOG0014",
+    "appointment_id": "A0055",
+    "patient": {
+      "id": "P014",
+      "name": "Kavya Joshi"
+    },
+    "doctor": {
+      "id": "D014",
+      "name": "Dr. Anil Singh"
+    },
+    "symptoms": [
+      "back pain"
+    ],
+    "diagnosis": "Migraine",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-05T13:30:00"
+  },
+  {
+    "log_id": "LOG0015",
+    "appointment_id": "A0037",
+    "patient": {
+      "id": "P029",
+      "name": "Harsh Shinde"
+    },
+    "doctor": {
+      "id": "D008",
+      "name": "Dr. Amit Sharma"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Arthritis",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-02T15:55:00"
+  },
+  {
+    "log_id": "LOG0016",
+    "appointment_id": "A0032",
+    "patient": {
+      "id": "P001",
+      "name": "Ravi Sharma"
+    },
+    "doctor": {
+      "id": "D008",
+      "name": "Dr. Amit Sharma"
+    },
+    "symptoms": [
+      "back pain"
+    ],
+    "diagnosis": "Gastritis",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-12T11:06:00"
+  },
+  {
+    "log_id": "LOG0017",
+    "appointment_id": "A0001",
+    "patient": {
+      "id": "P011",
+      "name": "Karan Sharma"
+    },
+    "doctor": {
+      "id": "D005",
+      "name": "Dr. Kiran Mehta"
+    },
+    "symptoms": [
+      "dizziness",
+      "weakness"
+    ],
+    "diagnosis": "Musculoskeletal Pain",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-07-06T17:29:00"
+  },
+  {
+    "log_id": "LOG0018",
+    "appointment_id": "A0036",
+    "patient": {
+      "id": "P008",
+      "name": "Neha Mehta"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "back pain"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-23T16:20:00"
+  },
+  {
+    "log_id": "LOG0019",
+    "appointment_id": "A0019",
+    "patient": {
+      "id": "P015",
+      "name": "Sanjay Deshmukh"
+    },
+    "doctor": {
+      "id": "D013",
+      "name": "Dr. Pallavi Verma"
+    },
+    "symptoms": [
+      "back pain"
+    ],
+    "diagnosis": "Arthritis",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-06-03T09:35:00"
+  },
+  {
+    "log_id": "LOG0020",
+    "appointment_id": "A0036",
+    "patient": {
+      "id": "P010",
+      "name": "Pooja Pawar"
+    },
+    "doctor": {
+      "id": "D011",
+      "name": "Dr. Ritu Joshi"
+    },
+    "symptoms": [
+      "dizziness",
+      "weakness"
+    ],
+    "diagnosis": "Gastritis",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-18T16:04:00"
+  },
+  {
+    "log_id": "LOG0021",
+    "appointment_id": "A0045",
+    "patient": {
+      "id": "P024",
+      "name": "Nandini Joshi"
+    },
+    "doctor": {
+      "id": "D009",
+      "name": "Dr. Shalini Patel"
+    },
+    "symptoms": [
+      "sore throat",
+      "fever"
+    ],
+    "diagnosis": "Dermatitis",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-13T14:00:00"
+  },
+  {
+    "log_id": "LOG0022",
+    "appointment_id": "A0021",
+    "patient": {
+      "id": "P009",
+      "name": "Amit Shinde"
+    },
+    "doctor": {
+      "id": "D004",
+      "name": "Dr. Vivek Singh"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Vertigo",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-06-16T11:17:00"
+  },
+  {
+    "log_id": "LOG0023",
+    "appointment_id": "A0047",
+    "patient": {
+      "id": "P007",
+      "name": "Vikram Singh"
+    },
+    "doctor": {
+      "id": "D004",
+      "name": "Dr. Vivek Singh"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Vertigo",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-08-01T12:43:00"
+  },
+  {
+    "log_id": "LOG0024",
+    "appointment_id": "A0015",
+    "patient": {
+      "id": "P004",
+      "name": "Priya Joshi"
+    },
+    "doctor": {
+      "id": "D014",
+      "name": "Dr. Anil Singh"
+    },
+    "symptoms": [
+      "stomach pain",
+      "nausea"
+    ],
+    "diagnosis": "Hypertension",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-06-25T13:03:00"
+  },
+  {
+    "log_id": "LOG0025",
+    "appointment_id": "A0018",
+    "patient": {
+      "id": "P001",
+      "name": "Ravi Sharma"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-08-08T10:09:00"
+  },
+  {
+    "log_id": "LOG0026",
+    "appointment_id": "A0056",
+    "patient": {
+      "id": "P023",
+      "name": "Suresh Kulkarni"
+    },
+    "doctor": {
+      "id": "D003",
+      "name": "Dr. Sonal Verma"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Common Cold",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-08-02T09:45:00"
+  },
+  {
+    "log_id": "LOG0027",
+    "appointment_id": "A0012",
+    "patient": {
+      "id": "P016",
+      "name": "Isha Verma"
+    },
+    "doctor": {
+      "id": "D008",
+      "name": "Dr. Amit Sharma"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Dermatitis",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-27T13:48:00"
+  },
+  {
+    "log_id": "LOG0028",
+    "appointment_id": "A0032",
+    "patient": {
+      "id": "P004",
+      "name": "Priya Joshi"
+    },
+    "doctor": {
+      "id": "D014",
+      "name": "Dr. Anil Singh"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Common Cold",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-06-09T14:50:00"
+  },
+  {
+    "log_id": "LOG0029",
+    "appointment_id": "A0016",
+    "patient": {
+      "id": "P005",
+      "name": "Rahul Deshmukh"
+    },
+    "doctor": {
+      "id": "D003",
+      "name": "Dr. Sonal Verma"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Vertigo",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-09T09:27:00"
+  },
+  {
+    "log_id": "LOG0030",
+    "appointment_id": "A0025",
+    "patient": {
+      "id": "P020",
+      "name": "Simran Pawar"
+    },
+    "doctor": {
+      "id": "D010",
+      "name": "Dr. Prakash Kulkarni"
+    },
+    "symptoms": [
+      "sore throat",
+      "fever"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-06-29T16:55:00"
+  },
+  {
+    "log_id": "LOG0031",
+    "appointment_id": "A0037",
+    "patient": {
+      "id": "P028",
+      "name": "Maya Mehta"
+    },
+    "doctor": {
+      "id": "D010",
+      "name": "Dr. Prakash Kulkarni"
+    },
+    "symptoms": [
+      "cold",
+      "fever"
+    ],
+    "diagnosis": "Viral Infection",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-07-25T13:12:00"
+  },
+  {
+    "log_id": "LOG0032",
+    "appointment_id": "A0043",
+    "patient": {
+      "id": "P025",
+      "name": "Akash Deshmukh"
+    },
+    "doctor": {
+      "id": "D004",
+      "name": "Dr. Vivek Singh"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Hypertension",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-06-28T12:30:00"
+  },
+  {
+    "log_id": "LOG0033",
+    "appointment_id": "A0001",
+    "patient": {
+      "id": "P006",
+      "name": "Sneha Verma"
+    },
+    "doctor": {
+      "id": "D009",
+      "name": "Dr. Shalini Patel"
+    },
+    "symptoms": [
+      "joint pain",
+      "swelling"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-06-10T10:40:00"
+  },
+  {
+    "log_id": "LOG0034",
+    "appointment_id": "A0046",
+    "patient": {
+      "id": "P010",
+      "name": "Pooja Pawar"
+    },
+    "doctor": {
+      "id": "D001",
+      "name": "Dr. Rajesh Joshi"
+    },
+    "symptoms": [
+      "skin rash",
+      "itching"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-06-30T12:55:00"
+  },
+  {
+    "log_id": "LOG0035",
+    "appointment_id": "A0028",
+    "patient": {
+      "id": "P022",
+      "name": "Divya Patel"
+    },
+    "doctor": {
+      "id": "D004",
+      "name": "Dr. Vivek Singh"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Vertigo",
+    "event_type": "appointment_updated",
+    "event_timestamp": "2026-07-04T11:22:00"
+  },
+  {
+    "log_id": "LOG0036",
+    "appointment_id": "A0005",
+    "patient": {
+      "id": "P021",
+      "name": "Aditya Sharma"
+    },
+    "doctor": {
+      "id": "D003",
+      "name": "Dr. Sonal Verma"
+    },
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "diagnosis": "Hypertension",
+    "event_type": "doctor_assigned",
+    "event_timestamp": "2026-07-05T10:25:00"
+  },
+  {
+    "log_id": "LOG0037",
+    "appointment_id": "A0008",
+    "patient": {
+      "id": "P020",
+      "name": "Simran Pawar"
+    },
+    "doctor": {
+      "id": "D012",
+      "name": "Dr. Sameer Deshmukh"
+    },
+    "symptoms": [
+      "sore throat",
+      "fever"
+    ],
+    "diagnosis": "Dermatitis",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-07T15:29:00"
+  },
+  {
+    "log_id": "LOG0038",
+    "appointment_id": "A0029",
+    "patient": {
+      "id": "P009",
+      "name": "Amit Shinde"
+    },
+    "doctor": {
+      "id": "D009",
+      "name": "Dr. Shalini Patel"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Common Cold",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-08-09T16:25:00"
+  },
+  {
+    "log_id": "LOG0039",
+    "appointment_id": "A0002",
+    "patient": {
+      "id": "P029",
+      "name": "Harsh Shinde"
+    },
+    "doctor": {
+      "id": "D007",
+      "name": "Dr. Deepa Pawar"
+    },
+    "symptoms": [
+      "headache",
+      "fatigue"
+    ],
+    "diagnosis": "Musculoskeletal Pain",
+    "event_type": "appointment_created",
+    "event_timestamp": "2026-07-12T12:16:00"
+  },
+  {
+    "log_id": "LOG0040",
+    "appointment_id": "A0003",
+    "patient": {
+      "id": "P025",
+      "name": "Akash Deshmukh"
+    },
+    "doctor": {
+      "id": "D011",
+      "name": "Dr. Ritu Joshi"
+    },
+    "symptoms": [
+      "chest pain",
+      "shortness of breath"
+    ],
+    "diagnosis": "Respiratory Infection",
+    "event_type": "status_changed",
+    "event_timestamp": "2026-07-05T17:50:00"
+  }
+]
