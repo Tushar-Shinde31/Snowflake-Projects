@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price,stock_quantity,updated_at
+201,Laptop Pro 14,Electronics,TechPro,75000.00,25,2026-08-01T10:00:00
+202,Wireless Mouse,Electronics,LogiTech,1500.00,100,2026-08-02T10:00:00
+203,Mechanical Keyboard,Electronics,KeyMaster,4500.00,-10,2026-08-03T10:00:00
+204,USB-C Hub,Electronics,ConnectX,2500.00,75,2026-08-04T10:00:00
+205,Smartphone X,Electronics,PhoneMax,45000.00,40,2026-08-05T10:00:00
+206,Bluetooth Speaker,Electronics,,3500.00,80,2026-08-06T10:00:00
+207,Running Shoes,Sports,Nike,6500.00,50,2026-08-07T10:00:00
+208,Office Chair,Furniture,ComfortSeat,12000.00,30,2026-08-08T10:00:00
+209,Backpack,Accessories,UrbanBag,-2800.00,70,2026-08-09T10:00:00
+210,Smart Watch,Wearables,FitTech,8500.00,45,2026-08-10T10:00:00
+211,Coffee Maker,Home,HomeBrew,5500.00,35,2026-08-11T10:00:00
+212,Air Fryer,InvalidCategory,KitchPro,7000.00,25,2026-08-12T10:00:00
+213,Water Bottle,Accessories,HydroMax,1200.00,120,2026-08-13T10:00:00
+214,Desk Lamp,Home,BrightHome,1800.00,65,2026-08-14T10:00:00
+215,,Electronics,SoundMax,5500.00,55,2026-08-15T10:00:00
+216,Power Bank,Electronics,PowerPlus,2200.00,90,2026-08-16T10:00:00
+217,Fitness Band,Wearables,FitTech,3500.00,60,2026-08-17T10:00:00
+218,Travel Bag,Accessories,TravelPro,4200.00,45,2026-08-18T10:00:00
+218,Travel Bag,Accessories,TravelPro,4200.00,45,2026-08-18T10:00:00
+220,Tablet 10,Electronics,TabWorld,280000.00,30,2026-08-20T10:00:00

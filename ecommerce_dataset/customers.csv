@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,city,state,country,registration_date,updated_at
+101,Rahul,Sharma,rahul.sharma@gmail.com,Mumbai,Maharashtra,India,2026-01-05,2026-08-01T10:00:00
+102,Priya,Patel,priya.patel@gmail.com,Ahmedabad,Gujarat,India,2026-01-08,2026-08-02T11:00:00
+103,Amit,Kumar,amit.kumar@gmail.com,Delhi,Delhi,India,2026-01-12,2026-08-03T09:30:00
+104,Sneha,Reddy,sneha.reddy@gmail.com,Hyderabad,Telangana,India,2026-01-15,2026-08-04T12:00:00
+105,Arjun,Mehta,arjun.mehta@gmail.com,Pune,Maharashtra,India,2026-01-20,2026-08-05T14:00:00
+106,Neha,Das,,Bhubaneswar,Odisha,India,2026-01-22,2026-08-06T15:00:00
+107,Rohit,Verma,rohit.verma@gmail.com,Bengaluru,Karnataka,India,2026-01-25,2026-08-07T10:30:00
+108,Ananya,Sen,ananya.sen@gmail.com,Kolkata,West Bengal,India,2026-01-28,2026-08-08T11:15:00
+109,Vikash,Singh,vikash.singh@,Jaipur,Rajasthan,India,2026-02-02,2026-08-09T13:00:00
+110,Pooja,Nair,pooja.nair@gmail.com,Kochi,Kerala,India,2026-02-05,2026-08-10T09:00:00
+111,Karan,Joshi,karan.joshi@gmail.com,Surat,Gujarat,India,2026-02-08,2026-08-11T10:00:00
+112,Swati,Mishra,swati.mishra@gmail.com,Lucknow,Uttar Pradesh,India,2026-02-10,2026-08-12T11:00:00
+113,Manish,Rao,manish.rao@gmail.com,,Tamil Nadu,India,2026-02-12,2026-08-13T12:00:00
+114,Divya,Kapoor,divya.kapoor@gmail.com,Noida,Uttar Pradesh,India,2026-02-15,2026-08-14T13:00:00
+115,Sanjay,Gupta,sanjay.gupta@gmail.com,Nagpur,Maharashtra,India,2026-02-18,2026-08-15T14:00:00
+116,Meera,Iyer,meera.iyer@gmail.com,Mysuru,Karnataka,India,2026-13-45,2026-08-16T15:00:00
+117,Aditya,Bose,aditya.bose@gmail.com,Ranchi,Jharkhand,India,2026-02-22,2026-08-17T10:00:00
+118,Kavita,Shah,kavita.shah@gmail.com,Vadodara,Gujarat,India,2026-02-25,2026-08-18T11:00:00
+118,Kavita,Shah,kavita.shah@gmail.com,Vadodara,Gujarat,India,2026-02-25,2026-08-18T11:00:00
+120,Riya,Malhotra,riya.malhotra@gmail.com,Gurugram,,India,2026-03-01,2026-08-20T10:00:00
