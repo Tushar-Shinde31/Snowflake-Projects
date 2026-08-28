@@ -126,11 +126,13 @@ SALES
 ├── product
 ├── amount
 └── order_date
+```
 
 ---
 
 ## 📁 Repository Structure
 
+```text
 Snowflake-Projects/
 │
 ├── README.md
@@ -163,6 +165,7 @@ Snowflake-Projects/
 ├── ecommerce_dataset/
 │
 └── mini_project.sql
+```
 
 ---
 
@@ -180,5 +183,6 @@ Snowflake
 SQL
 AI & Data
 Analytics Engineering
+
 
 ⭐ Feel free to explore the individual project folders to view the SQL implementations and project workflows.
