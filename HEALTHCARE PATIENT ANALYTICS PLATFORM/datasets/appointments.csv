@@ -1,0 +1,61 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,appointment_type,status,department,consultation_fee
+A0001,P009,D003,2026-06-14,16:15:00,Follow-up,Cancelled,Radiology,800
+A0002,P008,D003,2026-05-30,15:30:00,Routine Checkup,Scheduled,Cardiology,1500
+A0003,P026,D011,2026-01-29,11:15:00,Routine Checkup,Scheduled,ENT,800
+A0004,P018,D014,2026-06-02,16:30:00,Consultation,Scheduled,Oncology,1500
+A0005,P010,D007,2026-03-10,14:00:00,Follow-up,No Show,Cardiology,1200
+A0006,P017,D015,2026-03-09,17:15:00,Consultation,Cancelled,Oncology,1000
+A0007,P025,D003,2026-02-20,11:30:00,Consultation,Cancelled,Gynecology,500
+A0008,P008,D001,2026-01-29,14:30:00,Follow-up,Scheduled,Neurology,1200
+A0009,P005,D011,2026-05-05,10:15:00,Routine Checkup,Completed,Pediatrics,1000
+A0010,P030,D009,2026-06-05,15:15:00,Follow-up,Cancelled,ENT,1200
+A0011,P029,D009,2026-06-16,14:45:00,Routine Checkup,Scheduled,Dermatology,600
+A0012,P019,D009,2026-01-17,14:00:00,Follow-up,Completed,Cardiology,500
+A0013,P003,D015,2026-06-11,09:15:00,Consultation,Cancelled,Neurology,1000
+A0014,P007,D009,2026-03-02,13:45:00,Follow-up,No Show,Dermatology,1500
+A0015,P004,D002,2026-05-02,15:15:00,Routine Checkup,Cancelled,ENT,800
+A0016,P002,D007,2026-04-30,09:00:00,Emergency,Scheduled,Dermatology,600
+A0017,P005,D007,2026-02-18,17:45:00,Follow-up,Cancelled,Gynecology,600
+A0018,P002,D011,2026-01-20,16:00:00,Consultation,Scheduled,Dermatology,600
+A0019,P007,D014,2026-04-15,16:45:00,Routine Checkup,Scheduled,Orthopedics,800
+A0020,P030,D013,2026-01-01,15:30:00,Routine Checkup,Cancelled,ENT,1200
+A0021,P007,D005,2026-05-23,16:15:00,Follow-up,Scheduled,Radiology,1200
+A0022,P002,D001,2026-05-19,09:30:00,Routine Checkup,Completed,Cardiology,1000
+A0023,P020,D002,2026-01-21,11:00:00,Follow-up,No Show,Neurology,1000
+A0024,P020,D002,2026-03-05,18:00:00,Routine Checkup,Cancelled,Pediatrics,600
+A0025,P009,D007,2026-06-21,14:15:00,Follow-up,Cancelled,Gynecology,750
+A0026,P020,D010,2026-01-19,09:45:00,Consultation,Scheduled,Oncology,600
+A0027,P030,D006,2026-05-10,13:15:00,Consultation,Completed,General Medicine,750
+A0028,P020,D013,2026-02-10,16:30:00,Consultation,Cancelled,Neurology,600
+A0029,P024,D009,2026-03-09,10:00:00,Follow-up,Cancelled,Pediatrics,1000
+A0030,P022,D011,2026-02-23,14:15:00,Emergency,No Show,Pediatrics,1500
+A0031,P027,D005,2026-01-14,10:45:00,Consultation,Scheduled,General Medicine,1500
+A0032,P024,D008,2026-02-03,13:15:00,Routine Checkup,Scheduled,Neurology,500
+A0033,P027,D006,2026-06-26,11:00:00,Follow-up,No Show,Orthopedics,500
+A0034,P029,D006,2026-03-20,14:00:00,Follow-up,Completed,Neurology,750
+A0035,P030,D015,2026-05-24,15:15:00,Follow-up,Completed,Orthopedics,800
+A0036,P026,D015,2026-01-07,11:30:00,Routine Checkup,Completed,Pediatrics,600
+A0037,P028,D001,2026-06-29,10:45:00,Routine Checkup,Completed,Dermatology,1500
+A0038,P027,D013,2026-04-28,14:30:00,Follow-up,Completed,Cardiology,1200
+A0039,P009,D014,2026-02-19,15:30:00,Consultation,Cancelled,General Medicine,1200
+A0040,P001,D002,2026-05-11,15:30:00,Emergency,Completed,Radiology,750
+A0041,P012,D012,2026-01-10,10:45:00,Emergency,No Show,Radiology,1000
+A0042,P009,D001,2026-01-30,15:15:00,Routine Checkup,Scheduled,Oncology,1500
+A0043,P014,D002,2026-05-18,12:30:00,Emergency,Cancelled,Neurology,1200
+A0044,P022,D007,2026-03-18,17:30:00,Emergency,No Show,Pediatrics,1000
+A0045,P022,D007,2026-02-02,12:45:00,Follow-up,Cancelled,ENT,1000
+A0046,P007,D007,2026-01-01,13:30:00,Emergency,No Show,Gynecology,800
+A0047,P026,D015,2026-06-22,12:45:00,Follow-up,Scheduled,Pediatrics,1000
+A0048,P003,D014,2026-06-19,18:30:00,Follow-up,Cancelled,Dermatology,1500
+A0049,P002,D004,2026-02-20,11:00:00,Routine Checkup,Scheduled,Gynecology,800
+A0050,P023,D012,2026-06-11,18:15:00,Routine Checkup,No Show,ENT,600
+A0051,P025,D007,2026-02-07,09:00:00,Follow-up,Completed,Oncology,800
+A0052,P030,D014,2026-01-13,17:15:00,Consultation,No Show,Orthopedics,1500
+A0053,P025,D015,2026-04-29,17:30:00,Routine Checkup,No Show,Oncology,800
+A0054,P009,D013,2026-02-10,16:45:00,Follow-up,Cancelled,Oncology,800
+A0055,P015,D002,2026-06-10,12:30:00,Emergency,Completed,Pediatrics,750
+A0056,P005,D003,2026-03-23,17:00:00,Follow-up,No Show,Orthopedics,1200
+A0057,P014,D006,2026-02-24,10:45:00,Routine Checkup,No Show,Cardiology,600
+A0058,P028,D015,2026-04-18,15:00:00,Routine Checkup,No Show,Cardiology,750
+A0059,P018,D012,2026-03-18,15:45:00,Follow-up,No Show,Dermatology,750
+A0060,P013,D006,2026-04-22,16:00:00,Routine Checkup,Completed,Gynecology,600

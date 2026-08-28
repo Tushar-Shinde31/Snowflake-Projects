@@ -1,0 +1,17 @@
+
+
+USE DATABASE HEALTHCARE_DB;
+
+USE SCHEMA PATIENTS;
+
+USE WAREHOUSE HEALTH_WH;
+
+
+CREATE TABLE IF NOT EXISTS appointment_api_logs
+(
+    payload     VARIANT,
+    loaded_at   TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP()
+);
+
+
+DESCRIBE TABLE appointment_api_logs;
